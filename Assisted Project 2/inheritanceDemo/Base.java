@@ -4,6 +4,10 @@ public class Base {
 	
 	// This is going to my parent class
 	
+	// default accessmodifier
+	int hours =3;
+	int mins =47;
+	
 	public void openbrowser(String browser) {
 		
 		System.out.println("Opne the chrome browser" + browser);
